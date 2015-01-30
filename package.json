@@ -1,0 +1,19 @@
+{
+  "name": "crypto-tools",
+  "version": "0.0.0",
+  "description": "A small collection of crypto tools",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bbesmanoff/crypto-utils"
+  },
+  "author": "Brian Besmanoff",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bbesmanoff/crypto-utils/issues"
+  },
+  "homepage": "https://github.com/bbesmanoff/crypto-utils"
+}
