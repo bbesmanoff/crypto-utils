@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/bbesmanoff/crypto-utils/issues"
   },
-  "homepage": "https://github.com/bbesmanoff/crypto-utils"
+  "homepage": "https://github.com/bbesmanoff/crypto-utils",
+  "devDependencies": {
+    "expect.js": "^0.3.1",
+    "mocha": "^2.1.0"
+  }
 }
